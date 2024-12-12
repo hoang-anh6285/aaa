@@ -545,18 +545,13 @@ margin-bottom: 10px;
 	box-shadow: 0 0 15px 5px rgba(177,177,177,1.00); /* Tạo ánh sáng */
 
 }
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-}
-
 .filter-menu {
   width: 250px;
   background-color: #333;
   color: #fff;
   padding: 15px;
   border-radius: 8px;
-}
+ }
 
 .filter-menu h3 {
   margin: 0 0 15px;
@@ -597,8 +592,10 @@ body {
   margin-bottom: 15px;
 }
 
-.toggle-switch input {
-  margin-right: 10px;
+.toggle-switch input 
+{
+	margin-right: 10px;
+}
 
 
 
